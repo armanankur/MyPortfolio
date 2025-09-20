@@ -84,11 +84,11 @@ export const PROJECTS = [
     sourceCode: [
       {
         name: "Source Code",
-        url: "https://github.com/armanankur/TyrePlexTask",
+        url: "https://github.com/armanankur/MyPortfolio",
       },
       {
         name: "Live Demo",
-        url: "https://rad-faun-bbcc4d.netlify.app/",
+        url: "https://my-portfolio-five-brown-53.vercel.app/",
       },
     ],
   },
